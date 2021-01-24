@@ -1,0 +1,18 @@
+---
+branch:
+  feature_branch_prefix: feature/
+  hotfix_branch_prefix: hotfix/
+  release_branch_prefix: release/
+  released_branch: main
+  next_release_branch: develop
+
+release:
+  create_release: true
+  release_notes_file: changelog.md #OPTIONAL
+  release_title: repoName-$version #OPTIONAL
+
+pull-request:
+  merge_mode: squash
+  #  -m, --merge           Merge the commits with the base branch
+  #  -r, --rebase          Rebase the commits onto the base branch
+  #  -s, --squash          Squash the commits into one commit and merge it into the base branch
