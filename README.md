@@ -41,12 +41,12 @@ pull-request:
 
 ## Usage
 ### Feature
-**Create a Feature**
-`git flow feature -a create [your_feature_name]`
-**Make Feature ready to deployment**
-`git flow feature -a ready [your_feature_name]`
-**Finish with the feature development**
-`git flow feature -a done [your_feature_name]`
+- **Create a Feature**
+  `git flow feature -a create [your_feature_name]`
+- **Make Feature ready to deployment**
+  `git flow feature -a ready [your_feature_name]`
+- **Finish with the feature development**
+  `git flow feature -a done [your_feature_name]`
 
 ### Hotfix
 **Create a Hotfix**
