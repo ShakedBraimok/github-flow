@@ -41,10 +41,11 @@ pull-request:
 
 ## Usage
 ### Feature
-- **Create a Feature**
-  `git flow feature -a create [your_feature_name]`
+- **Create a Feature** <br />
+  `git flow feature -a create [your_feature_name]` <br />
   Behind the scenese:
-  - Create a branch with the correct prefix ([PREFIX]/[BRANCH_NAME])
+  - Create a branch with the correct prefix ([PREFIX]/[BRANCH_NAME]) from the next-release branch (which configured in the configuration file).
+  
 - **Make Feature ready to deployment**
   `git flow feature -a ready [your_feature_name]`
 - **Finish with the feature development**
