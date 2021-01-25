@@ -1,6 +1,6 @@
 # GitHub-Flow (`git flow`)
 
-`git flow` is a GitHub CLI extention. It provides commands for working easily and safely according the Git-Flow.
+`git flow` is a Git CLI extention. It provides commands for working easily and safely according the Git-Flow.
 
 ![create feature](https://github.com/ShakedBraimok/github-flow-assets/blob/master/create-feature-example.gif)
 GitHub-Flow extention is available for anyone who wants to work according the Git flow easily and safely.
