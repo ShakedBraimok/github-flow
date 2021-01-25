@@ -39,5 +39,10 @@ pull-request:
   - **rebase** - Rebase the commits onto the base branch
   - **squash** - Squash the commits into one commit and merge it into the base branch
 
+## Usage
+### Feature
+**Create Feature**
+`git flow feature -a create [your_feature_name]`
+
 ## License
 This project is under the GPLv3 license.
