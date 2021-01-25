@@ -47,7 +47,6 @@ All you need to do to make your repository supported by Github-Flow is to add gi
 
 ### Feature
 - **Create a Feature** <br />
-![create feature](https://github.com/ShakedBraimok/github-flow-assets/blob/master/create-feature-example.gif)
   `git flow feature -a create [your_feature_name]` <br />
   Behind the scenes:
   - Create a new branch with the Feature prefix ([PREFIX]/[FEATURE_NAME]) from the Next-Release-Branch (the both vars - prefix and next-release-branch are configured in the configuration file).
