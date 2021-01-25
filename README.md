@@ -10,10 +10,9 @@ Through GitHub-Flow, you will be able to assimilate and enforce the Git-Flow in 
 `pip install github-flow`
 
 ## Configuration (github-flow.yaml)
-The main advantage of this git-flow implementation (additional to the pull-reuests before the merge),
-is the centralized configuration file, all the developers workflow will be the same according this conf file.
+The main advantage of this git-flow implementation (additional to the pull-requests before the merge), is the centralized configuration file, all the developers workflow will be the same according this conf file.
 
-This conf file is required, please add it to the root directory of your repository before starting work with `git flow`. 
+This configuration file is required for the CLI extension, please add it to the root directory of your repository before starting work with `git flow`. 
 
 ```
 ---
