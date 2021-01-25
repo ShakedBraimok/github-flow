@@ -41,8 +41,26 @@ pull-request:
 
 ## Usage
 ### Feature
-**Create Feature**
+**Create a Feature**
 `git flow feature -a create [your_feature_name]`
+**Make Feature ready to deployment**
+`git flow feature -a ready [your_feature_name]`
+**Finish with the feature development**
+`git flow feature -a done [your_feature_name]`
+
+### Hotfix
+**Create a Hotfix**
+`git flow hotfix -a create [your_hotfix_name]`
+**Make Hotfix ready to deployment**
+`git flow hotfix -a ready [your_hotfix_name]`
+**Finish with the Hotfix development**
+`git flow hotfix -a done [your_hotfix_name]`
+
+### Release
+**Create a new Release**
+`git flow release -a create [your_release_name]`
+**Publish your Release**
+`git flow release -a publish [your_release_name]`
 
 ## License
 This project is under the GPLv3 license.
