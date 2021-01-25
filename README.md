@@ -2,14 +2,9 @@
 
 `git flow` is a GitHub CLI extention. It provides commands for working easily and safely according the Git-Flow.
 
-
-
+![create feature](https://github.com/ShakedBraimok/github-flow-assets/blob/master/GITHUB-FLOW-CREATE-FEATURE.gif)
 GitHub-Flow extention is available for anyone who wants to work according the Git flow easily and safely.
 Through GitHub-Flow, you will be able to assimilate and enforce the Git-Flow in your team without the need for learning or mistakes along the workflow.
-
-## Documentation
-
-[See the manual][manual] for setup and usage instructions.
 
 ## Installation
 `pip install github-flow`
