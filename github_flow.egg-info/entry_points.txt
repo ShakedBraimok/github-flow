@@ -1,0 +1,6 @@
+[console_scripts]
+git-flow = src.github_flow:main
+
+[gui_scripts]
+
+
