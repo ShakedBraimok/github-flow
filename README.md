@@ -39,3 +39,5 @@ pull-request:
   - **rebase** - Rebase the commits onto the base branch
   - **squash** - Squash the commits into one commit and merge it into the base branch
 
+## License
+This project is under the GPL license.
