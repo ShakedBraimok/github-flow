@@ -43,6 +43,8 @@ pull-request:
 ### Feature
 - **Create a Feature**
   `git flow feature -a create [your_feature_name]`
+  Behind the scenese:
+  - Create a branch with the correct prefix ([PREFIX]/[BRANCH_NAME])
 - **Make Feature ready to deployment**
   `git flow feature -a ready [your_feature_name]`
 - **Finish with the feature development**
