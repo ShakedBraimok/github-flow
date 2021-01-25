@@ -1,4 +1,4 @@
-dist/
-build/
-github_flow.egg-info/
-.idea/
+dist/*
+build/*
+github_flow.egg-info/*
+.idea/*
