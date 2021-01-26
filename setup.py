@@ -4,7 +4,7 @@ import os
 from codecs import open
 from setuptools import setup, find_packages
 
-VERSION = "0.1"
+VERSION = "0.2"
 DESCRIPTION = "A git extension which provides commands for working according Git-Flow easily & safely in your repository."
 
 here = os.path.abspath(os.path.dirname(__file__))
