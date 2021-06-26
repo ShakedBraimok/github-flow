@@ -1,5 +1,5 @@
 # GitHub-Flow (`git flow`)
-<img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache License" /></a>
+<img src="https://img.shields.io/badge/License-GPL%202.0-blue.svg" alt="GPL License" /></a>
 
 `git flow` is a Git CLI extention. It provides commands for working easily and safely according the Git-Flow.
 
